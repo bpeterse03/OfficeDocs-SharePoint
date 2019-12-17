@@ -46,8 +46,12 @@ Global admins and SharePoint admins can now delete sites that belong to an Offic
 1. In the left column, click to select a site.
     
 2. Click **Delete**, and then click **Delete** to confirm. 
+
+You can permanently delete sites that are not connected to an Office 365 group from the new SharePoint admin center. Follow the same steps to select the site, but click **Permanently Delete** to confirm. 
     
 You can recover deleted sites for 93 days. For more info, see [Restore deleted sites](/restore-deleted-site-collection.md). Note that deleted groups must be restored within 30 days.
+
+
   
 ## Add or remove owners
 <a name="addremoveadmins"> </a>
